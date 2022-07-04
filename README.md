@@ -10,10 +10,9 @@
 ## Day2
 - 오라클 기초학습
   - 서브쿼리 이어서
-  - LIKE
-  - SUBSTR
-  - REPLACE
+  - LIKE, SUBSTR, REPLACE
   - ROUND, TRUNC, MOD
-  - DATE 형식
-  - TO_CHAR
+  - 형변환
+    - DATE 형식
+    - TO_CHAR
   - 집계함수, GROUP BY
